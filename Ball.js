@@ -5,6 +5,7 @@ export default class Ball {
   constructor(ballElem) {
     this.ballElem = ballElem
     this.reset()
+    
   }
 
   get x() {
